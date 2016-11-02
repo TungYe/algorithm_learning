@@ -6,8 +6,6 @@ package com.yed;
  *
  */
 public class LCS {
-	
-	
 	/**
 	 * 求两个字符串的最大子序列（可以不连续），不同于最大子字符串（要求连续）
 	 * @param A
